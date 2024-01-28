@@ -1,2 +1,2 @@
-# Sample Website
-This is a sample website. 
+# Sample 
+This is a sample. 
